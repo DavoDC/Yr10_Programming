@@ -1,0 +1,13 @@
+
+
+Install IDE
+
+
+Make executables for those that don’t have
+
+
+Fix programs broken by absolute paths.
+Use relative
+
+
+Remove personal info + remake repo
