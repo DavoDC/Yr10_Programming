@@ -14,8 +14,8 @@ While I enjoyed the experience at the time, it wasn't until three years later, d
 ### Learning Exercises
 | Program | Description |
 |---------|-------------|
-| `Test Program` | Hello World — the very first program |
-| `Variables` | Blank form with `Option Explicit` — exploring VB variable declaration rules |
+| `Test Program` | Hello World - the very first program |
+| `Variables` | Blank form with `Option Explicit` - exploring VB variable declaration rules |
 | `Font Style` | Textbox demo exploring font styles in VB |
 
 ### Calculators & Converters
@@ -34,20 +34,20 @@ While I enjoyed the experience at the time, it wasn't until three years later, d
 | `Random Number Generator` | Generates random numbers 1–1000; two compiled variants (100 and 1000 range) |
 | `Table of Squares` | Generates and displays a table of square numbers |
 | `Dice Rolling Simulation` | Rolls 2 dice displayed as BMP images; click to roll |
-| `Dice Rolling Simulation 2` | Improved dice roller — second iteration |
+| `Dice Rolling Simulation 2` | Improved dice roller - second iteration |
 | `Match Three` | The main class assignment game: 3 image slots randomise, score points for matches, wild card system, 20 turns, high score tracking |
 | `Bouncing Ball` | Physics calculator: enter drop height, outputs total bounces and total distance until ball stops |
 
 ### Social / Fun Programs
 | Program | Description |
 |---------|-------------|
-| `Message Runner` | Sends "HELLO [Name]" one letter at a time via message boxes — buttons for David, Cody, and Zach (classmates) |
+| `Message Runner` | Sends "HELLO [Name]" one letter at a time via message boxes - buttons for David, Cody, and Zach (classmates) |
 | `MessageChat` | A chat-style messaging program |
-| `Troll` | Opens maximised and named `WindowsError` internally — displays a troll image designed to look like a system error |
+| `Troll` | Opens maximised and named `WindowsError` internally - displays a troll image designed to look like a system error |
 | `ClickTestTroller` | A click-speed test that is also a troll (executable only) |
 
 ### Unfinished / Experimental
 | Program | Description |
 |---------|-------------|
-| `Organizer` | Stats organizer — UI built, Organize button handler left empty |
-| `CardMaker` | Card maker — project file only, no completed form |
+| `Organizer` | Stats organizer - UI built, Organize button handler left empty |
+| `CardMaker` | Card maker - project file only, no completed form |
