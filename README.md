@@ -1,4 +1,8 @@
 # Year 10 Programming
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G31WKOCN)
+
+
 These are my Programming class projects from high school, **Year 10 (2015)**.
 
 This class introduced me to programming, specifically using the **[Visual Basic 6.0](https://en.wikipedia.org/wiki/Visual_Basic_(classic)) (VB)** programming language. It was my first experience with coding, and all our projects were written in VB.
